@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a professional software architect from [Georgia, Tbilisi](https://en.wikipedia.org/wiki/Tbilisi), my knowledge of technology includes a firm grasp of software engineering paradigms, a deep understanding of the Python, Elixir, and C programming languages, a deep understanding of operating systems, memory management, threading and interrupts. Mainly I use Elixir, and currently, I work as an Elixir back-end developer and I use technologies like GraphQL and CQRS to create scalable architectures.
+I am a professional software architect from [Georgia, Tbilisi](https://en.wikipedia.org/wiki/Tbilisi), my knowledge of technology includes a firm grasp of software engineering paradigms, a deep understanding of the Crystal, Elixir, and C programming languages, a deep understanding of operating systems, memory management, threading and interrupts. Mainly I use Elixir, and currently, I work as a Data Engineer.
 
 I like to learn new technologies, mainly I like to learn new programming languages by making pet projects in them, some of the pet projects turn out to be successful and it motivates me to continue learning. Currently, I am learning Zig which is a quite interesting pre-1.0.0 programming language.
 
