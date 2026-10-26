@@ -4,24 +4,26 @@ My name is Giorgi and I am a software engineer from Tbilisi, Georgia.
 
 ### Core Competencies
 
-* **Low-Level Systems & Runtimes:** Custom language runtimes, memory management, thread-safe actor models, and low-latency buffer management.
-* **High-Concurrency Backends:** Real-time WebSocket pipelines, event-driven architectures, and high-throughput microservices.
-* **Languages:** C/C++ (including C++20), Crystal, Elixir (Erlang/OTP), Rust, Go, Python.
+- **Full-Stack & Backend Systems:** Building clean REST/GraphQL APIs, real-time WebSocket apps, database architectures (PostgreSQL, Redis, Kafka), and scalable microservices.
+- **AI Tooling & Automation:** Leveraging modern developer workflows (Claude Code, agentic automation, LLM APIs) to ship fast, eliminate manual ops, and streamline team productivity.
+- **Performance & Infrastructure:** Legacy code refactoring, system optimization, cloud deployments (Docker, AWS), and fixing high-load production bottlenecks.
+- **Languages:** C/C++, Crystal, Elixir (Erlang/OTP), Go, JavaScript, Python, Rust, TypeScript.
 
 ---
 
 ### Technical Contributions & Open Source
 
-* **Crystal Programming Language:** Core contributor to compiler internals and standard library maintenance.
-* **Grip & Posse Frameworks:** Creator and maintainer of high-performance web and type-safe CQRS/Event Sourcing frameworks.
-* **JAM a.k.a Just Another Microkernel:** Creator and maintainer of an Erlang/OTP-inspired actor-based microkernel.
-* **Community:** Speaker at Crystal Conference and OWASP Tbilisi.
+- **Crystal Programming Language:** Core contributor to compiler internals and standard library maintenance.
+- **Grip & Posse Frameworks:** Creator and maintainer of high-performance web and type-safe CQRS/Event Sourcing frameworks.
+- **Bokken 2D Game Engine:** Creator of a cross-platform 2D game engine featuring TypeScript scripting via QuickJS-NG, Box2D v3 physics, dynamic 2D lighting, and a PhysFS virtual asset pipeline.
+- **JAM a.k.a Just Another Microkernel:** Creator and maintainer of an Erlang/OTP-inspired actor-based microkernel.
+- **Community:** Speaker at Crystal Conference and OWASP Tbilisi.
 
 ---
 
 ### About Me
 
-I am a professional software architect with a firm grasp of software engineering paradigms, low-level operating systems, kernels, memory management, threading, and interrupts. My work spans the spectrum from bare-metal microkernel architectures to high-throughput production streaming pipelines, with a primary focus on **Crystal** and **Rust**. As an open-source enthusiast, I enjoy exploring new technologies and building robust tooling, maintaining successful projects like the Grip web framework and contributing directly to language runtimes.
+I am a software engineer who loves turning complex technical challenges into simple, maintainable product features. While I have a deep background in systems engineering and runtime internals, my day-to-day focus is shipping fast, reliable web applications and helping teams scale. Whether it's building modern backend APIs, automating workflows with AI toolchains like Claude Code, or modernizing messy legacy codebases, I prioritize clear communication, pragmatic execution, and clean, developer-friendly code.
 
 ---
 
