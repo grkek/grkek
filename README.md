@@ -13,7 +13,7 @@ My name is Giorgi and I am a software engineer from Tbilisi, Georgia.
 
 ### Technical Contributions & Open Source
 
-- **Crystal Programming Language:** Core contributor to compiler internals and standard library maintenance.
+- **Crystal Programming Language:** Core contributor to the ecosystem and a long time fan.
 - **Grip & Posse Frameworks:** Creator and maintainer of high-performance web and type-safe CQRS/Event Sourcing frameworks.
 - **Bokken 2D Game Engine:** Creator of a cross-platform 2D game engine featuring TypeScript scripting via QuickJS-NG, Box2D v3 physics, dynamic 2D lighting, and a PhysFS virtual asset pipeline.
 - **JAM a.k.a Just Another Microkernel:** Creator and maintainer of an Erlang/OTP-inspired actor-based microkernel.
